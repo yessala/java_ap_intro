@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MiPrimeraClaseEnVSCode {
+public class MiPrimerDesafio {
  
     public static void main(String[] args) {
         
