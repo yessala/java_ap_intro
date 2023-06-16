@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MiSegundoDesafio {
+public class DesafioCalculadora {
 
     static Scanner leer = new Scanner(System.in);
 

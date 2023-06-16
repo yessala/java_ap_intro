@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MiPrimerDesafio {
+public class DesafioParoImpar {
  
     public static void main(String[] args) {
         
@@ -18,7 +18,7 @@ public class MiPrimerDesafio {
 
        String resultado = (num%2<=0) ? "El número es par" : "El número es impar";
 
-       return resultado;
+       return resultado; 
     }
 
 }
