@@ -8,8 +8,8 @@ public class DesafioValidarContrasenia {
         // input de contraseña
         System.out.println("Ingrese contraseña");
         String contra = leer.nextLine();
-        //ciclo de validación, solo tiene 3 intentos
-
+        
+        //ciclo de validación, mientras sea falso, pide nueva contraseña
         while (validacion(contra) == false){
             System.out.println("Intente una contraseña más segura");
             contra = leer.nextLine();
