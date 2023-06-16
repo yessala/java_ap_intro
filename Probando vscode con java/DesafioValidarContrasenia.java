@@ -6,6 +6,12 @@ public class DesafioValidarContrasenia {
 
     public static void main(String[] args) {
         // input de contraseña
+
+        System.out.println("Criterios de seguridad obligatorios:");
+        System.out.println();
+        System.out.println("entre 3 y 8 caracteres");
+        System.out.println("primera letra en mayúscula");
+        System.out.println(". o - como caracteres especiales");
         System.out.println("Ingrese contraseña");
         String contra = leer.nextLine();
         
@@ -28,7 +34,7 @@ public class DesafioValidarContrasenia {
 
         //identifico la longitud y la valido con los parámetros
         int largo = pw.length();
-        boolean largoValido=(largo >= 3 && largo <= 8); 
+        boolean largoValido=(largo >= 8); 
 
         //valido el contenido especifico
          boolean contenido = pw.contains(".") || pw.contains("-");

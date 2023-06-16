@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidarConSeguridad",
+            "request": "launch",
+            "mainClass": "ValidarConSeguridad",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "ExpresionesRegulares",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
