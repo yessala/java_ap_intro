@@ -22,24 +22,24 @@ public class ValidarConSeguridad {
 
             for (int i=0; i < password.length(); i++){
                 char c = password.charAt(i);
-                if (mayuscula = Character.isUpperCase(c)){
+                if (mayuscula == false && (mayuscula = Character.isUpperCase(c))) {
                     mayuscula = true;
                 }
-                if (num = Character.isDigit(c)){
+                if (num == false && (num = Character.isDigit(c))){
                     num = true;
                 }
-                if (letra = Character.isLetter(c)){
+                if (letra == false && (letra = Character.isLowerCase(c))){
                     letra = true;
                 }
-                if (hasEspecial.find()){
+                if (especial == false && (hasEspecial.find())){
                     especial = true;
                 }
             }
-            if (mayuscula == true && num == true && letra == true && especial == true){
+            if (mayuscula && num  && letra  && especial){
                 System.out.print("Contraseña validada con seguridad.");
             }else
             System.out.print("La contraseña no es válida, intente nuevamente.");
+            }
         }
-    }
 
-}
+    }
