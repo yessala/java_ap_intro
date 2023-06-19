@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
 public class MiPag{
+    static Scanner leer = new Scanner(System.in);
 
     public static void main (String[] args){
 
-        Scanner leer = new Scanner(System.in);
+        
 
         System.out.println("Dime hola");
         String saludo = leer.nextLine();

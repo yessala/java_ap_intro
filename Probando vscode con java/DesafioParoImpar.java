@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class DesafioParoImpar {
- 
+    static Scanner leer = new Scanner(System.in);
     public static void main(String[] args) {
         
-        Scanner leer = new Scanner(System.in);
+        
 
         System.out.println("Ingrese un numero para verificar si es par ó impar");
         int num = leer.nextInt();
