@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class Dia3ArraySuma {
     public static void main(String[] args) {
         //definir valores de la array
-        int[] value = {1,2,3,4,5,7};
+        int[] value = {1,2,3};
         //llamo la clase Arrays con su metodo stream para acceder a los valores, luego la funcion de java sum() que me suma los valores 
         int suma = Arrays.stream(value).sum();
 
