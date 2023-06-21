@@ -10,12 +10,16 @@ public class Dia2Divisibilidad {
         System.out.println("Ingrese numero: ");
         int num = leer.nextInt();
 
+        // valida si el número igresado es divisible entre 3 y 5
         if (num % 3 == 0 && num % 5 == 0) {
             System.out.println("El número ingresado es divisible entre ambos");
+            // valida si el número igresado es divisible entre 5
         } else if (num % 3 != 0 && num % 5 == 0) {
             System.out.println("El número es divisible entre 5");
+            // valida si el número igresado es divisible entre 3
         } else if (num % 3 == 0 && num % 5 != 0) {
             System.out.println("El número es divisible entre 3");
+            //Si el número no es divisible entre 3 ni 5, manda el siguiente mensaje
         } else {
             System.out.println("El número no es divisible entre ninguno de los dos números");
         }
