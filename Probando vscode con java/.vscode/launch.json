@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dia2Contrasenia",
+            "request": "launch",
+            "mainClass": "Dia2Contrasenia",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
             "name": "Dia2Divisibilidad",
             "request": "launch",
             "mainClass": "Dia2Divisibilidad",
