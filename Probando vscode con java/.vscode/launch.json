@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dia2Clasificacion",
+            "request": "launch",
+            "mainClass": "Dia2Clasificacion",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
             "name": "ValidarConSeguridad",
             "request": "launch",
             "mainClass": "ValidarConSeguridad",
