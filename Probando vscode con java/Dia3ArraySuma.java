@@ -14,3 +14,5 @@ public class Dia3ArraySuma {
 }
 //esta es otra forma de hacer la suma
 //Arrays.stream(value).parallel().reduce(0,(a,b)->  a + b)
+// fuente de la informcion
+// https://www.delftstack.com/es/howto/java/find-sum-of-array-in-java/
