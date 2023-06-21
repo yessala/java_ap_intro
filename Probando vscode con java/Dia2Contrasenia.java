@@ -10,7 +10,7 @@ public class Dia2Contrasenia {
         //Contraseña definida para comparar
         String validPassword = "contra1234";
         
-        //Validación de contraseña
+        //Validación de contraseña método equals para String
         if (password.equals(validPassword)){
             System.out.print("Acceso Concedido");
         }else
