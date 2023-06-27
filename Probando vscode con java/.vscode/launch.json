@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DesafioCalculadora",
+            "request": "launch",
+            "mainClass": "DesafioCalculadora",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "DesafioConversorDeTemperatura",
+            "request": "launch",
+            "mainClass": "DesafioConversorDeTemperatura",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "DesafioParoImpar",
+            "request": "launch",
+            "mainClass": "DesafioParoImpar",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "DesafioValidacion",
+            "request": "launch",
+            "mainClass": "DesafioValidacion",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "DesafioValidarContrasenia",
+            "request": "launch",
+            "mainClass": "DesafioValidarContrasenia",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2Clasificacion",
+            "request": "launch",
+            "mainClass": "Dia2Clasificacion",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2Contrasenia",
+            "request": "launch",
+            "mainClass": "Dia2Contrasenia",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2Descuento",
+            "request": "launch",
+            "mainClass": "Dia2Descuento",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2Divisibilidad",
+            "request": "launch",
+            "mainClass": "Dia2Divisibilidad",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2PositivosNegativos",
+            "request": "launch",
+            "mainClass": "Dia2PositivosNegativos",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2SwitchCalificacion",
+            "request": "launch",
+            "mainClass": "Dia2SwitchCalificacion",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2SwitchDiaHabil",
+            "request": "launch",
+            "mainClass": "Dia2SwitchDiaHabil",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2SwitchGeometria",
+            "request": "launch",
+            "mainClass": "Dia2SwitchGeometria",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia2SwitchSemana",
+            "request": "launch",
+            "mainClass": "Dia2SwitchSemana",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia3ArrayMaximo",
+            "request": "launch",
+            "mainClass": "Dia3ArrayMaximo",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia3ArrayPromedio",
+            "request": "launch",
+            "mainClass": "Dia3ArrayPromedio",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia3ArraySuma",
+            "request": "launch",
+            "mainClass": "Dia3ArraySuma",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia4Fibonacci",
+            "request": "launch",
+            "mainClass": "Dia4Fibonacci",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "Dia4NumerosPrimos",
+            "request": "launch",
+            "mainClass": "Dia4NumerosPrimos",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "EsPrimo",
+            "request": "launch",
+            "mainClass": "EsPrimo",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "ExpresionesRegulares",
+            "request": "launch",
+            "mainClass": "ExpresionesRegulares",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "MiPag",
+            "request": "launch",
+            "mainClass": "MiPag",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "DiaPractica",
+            "request": "launch",
+            "mainClass": "Practicas.DiaPractica",
+            "projectName": "Probando vscode con java_27734f34"
+        },
+        {
+            "type": "java",
+            "name": "ValidarConSeguridad",
+            "request": "launch",
+            "mainClass": "ValidarConSeguridad",
+            "projectName": "Probando vscode con java_27734f34"
+        }
+    ]
+}
