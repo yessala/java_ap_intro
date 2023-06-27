@@ -1,23 +1,23 @@
-import java.util.Arrays;
-public class MatrixMultiplication {
-    public static void main(String[] args) {
-        // Create two matrices
-        int[][] matrix1 = new int[][] {
-            {1, 2, 3},
-            {4, 5, 6},
-            {7, 8, 9}
-        };
-        int[][] matrix2 = new int[][] {
-            {1, 2, 3},
-            {4, 5, 6},
-            {7, 8, 9}
-        };
-        // Multiply the matrices
-        int[][] product = Matrix.multiply(matrix1, matrix2);
-        // Print the product
-        System.out.println(Arrays.deepToString(product));
-    }
-}
+// import java.util.Arrays;
+// public class MatrixMultiplication {
+//     public static void main(String[] args) {
+//         // Create two matrices
+//         int[][] matrix1 = new int[][] {
+//             {1, 2, 3},
+//             {4, 5, 6},
+//             {7, 8, 9}
+//         };
+//         int[][] matrix2 = new int[][] {
+//             {1, 2, 3},
+//             {4, 5, 6},
+//             {7, 8, 9}
+//         };
+//         // Multiply the matrices
+//         int[][] product = Matrix.multiply(matrix1, matrix2);
+//         // Print the product
+//         System.out.println(Arrays.deepToString(product));
+//     }
+// }
 
 
 
