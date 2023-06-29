@@ -102,12 +102,7 @@ public class Ejercicio2 {
 				m3[i][j] = m1[i][j]+m2[i][j];
 			}
 		}
-		for (int i = 0; i< m3.length;i++) {
-			for (int j=0; j<m3[i].length;j++) {
-				System.out.print("["+m3[i][j]+"]");
-			}
-			System.out.println();
-		}
+		mostrarMatriz(m3);
 	}
 
 	public static void multiplicarMatrices(int[][] m1, int[][] m2) {
@@ -123,13 +118,7 @@ public class Ejercicio2 {
 				suma=0;
 			}
 		}
-
-		for ( i = 0; i< m3.length;i++) {
-			for ( j=0; j<m3[i].length;j++) {
-				System.out.print("["+m3[i][j]+"]");
-			}
-			System.out.println();
-		}
+		mostrarMatriz(m3);
 	}
 
 }
