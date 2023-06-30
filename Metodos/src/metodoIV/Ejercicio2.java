@@ -12,6 +12,10 @@ package metodoIV;
 
 import java.util.Scanner;
 
+/**
+ * @author yessa
+ *
+ */
 public class Ejercicio2 {
 	static Scanner leer = new Scanner(System.in);
 	public static void main(String[] args) {

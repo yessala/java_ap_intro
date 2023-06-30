@@ -1,5 +1,9 @@
 package matrices;
 
+/**
+ * @author yessa
+ *
+ */
 public class MaximoYMinimo {
 
 	public static void main(String[] args) {
