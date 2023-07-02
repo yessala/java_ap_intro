@@ -14,7 +14,7 @@ public class MatrizEspiralada {
 	public static void main(String[] args) {
 
 		//esto aplica nada mas para matrices cuadradas
-		System.out.println("Ingrese el tamaño de la matriz");
+		System.out.println("Ingrese el tamaño de la matriz: ");
 		int n = leer.nextInt();
 		int[][] matrix = new int[n][n];
 		int i, startRow = 0, startColumn=0;

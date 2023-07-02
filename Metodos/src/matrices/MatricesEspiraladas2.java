@@ -18,9 +18,9 @@ public class MatricesEspiraladas2 {
 	public static void main(String[] args) {
 
 		//esto aplica nada mas para matrices cuadradas
-		System.out.println("Ingrese las filas de la matriz");
+		System.out.print("Ingrese las filas de la matriz: ");
 		int n = leer.nextInt();
-		System.out.println("Ingrese las columnas de la matriz");
+		System.out.print("Ingrese las columnas de la matriz: ");
 		int m = leer.nextInt();
 		int[][] matrix = new int[n][m];
 		int i, startRow = 0, startColumn=0;
